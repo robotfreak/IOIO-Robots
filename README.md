@@ -2,10 +2,10 @@
 
 ##Introduction
 
-A Java programmable robot using an Android phone and the IOIO board.
+[IOIO-Rover & IOIO-SHR](https://github.com/robotfreak/IOIO-Robots) are Java programmable robots using an Android phone and the IOIO board.
 
 
-[![IOIO-Rover](https://farm8.staticflickr.com/7651/16307856094_d7ca19beb8_m.jpg IOIO-Rover)](https://github.com/robotfreak/robotfreak/tree/master/ioio) IOIO-Rover
+[![IOIO-Rover](https://farm8.staticflickr.com/7651/16307856094_d7ca19beb8_m.jpg IOIO-Rover)](https://github.com/robotfreak/IOIO-Robots) IOIO-Rover
 
 
 ##Features
@@ -37,5 +37,6 @@ A Java programmable robot using an Android phone and the IOIO board.
 
 ##Weblinks
 
-* http://letsmakerobots.com/node/30351
+* [Letsmakerobots - IOIO-SHR(http://letsmakerobots.com/node/30351)
+* [Letsmakerobots - IOIO-Rover](http://letsmakerobots.com/node/33968)
 
