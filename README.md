@@ -37,6 +37,6 @@
 
 ##Weblinks
 
-* [Letsmakerobots - IOIO-SHR(http://letsmakerobots.com/node/30351)
+* [Letsmakerobots - IOIO-SHR](http://letsmakerobots.com/node/30351)
 * [Letsmakerobots - IOIO-Rover](http://letsmakerobots.com/node/33968)
 
